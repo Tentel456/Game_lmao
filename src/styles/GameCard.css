@@ -17,6 +17,8 @@ html {
 }
 
 body {
+	display: flex;
+	place-items: center;
 	justify-content: center;
 	min-height: 100svh;
 	touch-action: none;
