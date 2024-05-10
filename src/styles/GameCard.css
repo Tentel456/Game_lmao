@@ -17,9 +17,7 @@ html {
 }
 
 body {
-	display: flex;
 	place-items: center;
-	justify-content: center;
 	min-height: 100svh;
 	touch-action: none;
 	font-family: 'SF Pro Text', 'SF Pro Icons', 'AOS Icons', 'Helvetica Neue',
